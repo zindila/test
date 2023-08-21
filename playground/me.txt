@@ -1,5 +1,0 @@
-{{#user}}
-Name: Cindila Sunny
-Skills: Python,C,CSSS,HTML,Javascript,Node.js,Express.js,Git,Mongodb
-Email: cindilakaranchirakkal@gmail.com
-{{/user}}
